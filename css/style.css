@@ -108,7 +108,7 @@ ul.address li ul.address-text li a:hover{
 /*--//banner-top--*/
 /*--top-nav--*/
 .top-nav {
-    background: #008B8B;
+    background: #2f40d6;
 }
 .nav > li {
     display: inline-block;
@@ -140,31 +140,31 @@ ul.nav.navbar li a:hover,ul.nav.navbar li a.active,ul.nav.navbar li a:focus{
 h3.title {
     font-size: 4em;
     text-align: center;
-    color: #008B8B;
+    color: #00;
     border-bottom: 4px double rgba(247, 197, 106, 0.35);
     padding-bottom: 0.2em;
 	margin-bottom: 1em;
 }
 p {
     font-size: 1em;
-    color: #999;
+    color: #;
     line-height: 1.8em;
 }
 .about-right {
     padding-left: 5em;
 }
 .about-right ul {
-    border: 3px double #008B8B;
+    border: 3px double #2f40d6;
     padding: 1em 2em;
 }
 .about-right h5 {
     font-size: 2em;
     text-align: center;
-    color: #008B8B;
+    color: #2f40d6;
 }
 .about-right ul li {
     display: block;
-    color: #999;
+    color: #00;
     margin: 1em 0;
 	font-size:1em;
 }
@@ -175,22 +175,22 @@ p {
 /*--//about--*/
 /*--work--*/
 .work {
-    background: #000;
+    background: #2f40d6;
 }
 .work-left {
     text-align: right;
     padding: 3em 5em 0 0;
 }
 .work-right {
-    border-left: 1px solid #999;
+    border-left: 1px solid #000000;
     padding: 2.5em 0 2em 6em;
 }
 .work-info h4 {
     font-size: 1.2em;
-    background: darkcyan;
+    
     display: inline-block;
     padding: .6em 1.2em;
-    color: #fff;
+    color: #00;
 	position:relative;
 }
 .work-info h4:before {
@@ -203,20 +203,20 @@ p {
     right: -14px;
     border-style: solid;
     border-width: 10px 0 10px 16px;
-    border-color: transparent transparent transparent rgb(0, 139, 139);
+    border-color: transparent transparent transparent rgb(0, 0, 0);
 }
 .work-info h5 {
     font-size: 1.3em;
-    color: #F7E612;
+    color: #FFFFFF;
     margin-bottom: .5em;
-    border: 1px solid #F7E612;
+    border: 1px solid #000000;
     display: inline-block;
     padding: 0 1.2em;
 }
 .work-info h5 span.glyphicon {
     font-size: 0.9em;
     color: #fff;
-    background: #008B8B;
+    background: #000000;
     padding: 1em;
     -webkit-border-radius: 70%;
     -moz-border-radius: 70%;
@@ -256,7 +256,7 @@ p {
     margin-top: 0.8em;
 }
 .work-info:hover h5 span.glyphicon {
-    color: #F7E612;
+    color: #2f40d6;
 	-webkit-transform: scale(1.2);
 	-moz-transform: scale(1.2);
     transform: scale(1.2);
@@ -271,7 +271,7 @@ p {
 /*--//education--*/
 /*--skills--*/
 .skills{
-	background:#000;
+	background:#2f40d6;
 }
 .bar-grids {
     padding: 0 4em;
@@ -279,10 +279,10 @@ p {
 .progress {
     height: 10px;
     margin-bottom: 2.2em;
-    background-color: #2F2C06;
+    background-color: #000000;
 }
 .progress-bar { 
-    background-color: #766E04;
+    background-color: #f8f7fd;
 }
 .bar-grids h6 {
     font-size: 1.1em;
@@ -298,7 +298,7 @@ p {
 /*--SAP--*/
 ul.resp-tabs-list {  
 /*-- w3layouts --*/
-background: #F7E612;
+background: #4773ff;
 }
 .sap_tabs{
 	clear:both;
@@ -338,7 +338,7 @@ background: #F7E612;
 .resp-tab-active,.resp-tab-active:hover{
     text-shadow: none;
     color: #fff;
-    background: #1D9898;
+    background: #ff2b2b;
 }
 .resp-tab-active:before {
     width: 0;
