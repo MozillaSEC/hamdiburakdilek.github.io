@@ -126,41 +126,41 @@
 			<h3 class="title">Work Experience</h3>
 			<div class="work-info"> 
 				<div class="col-md-6 work-left"> 
-					<h4>2014 - 2016 </h4>
+					<h4>April 2016 - June 2016 </h4>
 				</div>
 				<div class="col-md-6 work-right"> 
-					<h5><span class="glyphicon glyphicon-briefcase"> </span> Company Name</h5>
-					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo </p>
+					<h5><span class="glyphicon glyphicon-briefcase"> </span> DNZ Bilişim</h5>
+					<p>I made an Restourant Waiter Otomation aplication for android devices in consulting of DNZ Bilişim. The aplication is integrated with "Elektra Restourant (POS) Program". U can find screenshots of program in my projects.</p>
 				</div>
 				<div class="clearfix"> </div>
 			</div>
 			<div class="work-info"> 
 				<div class="col-md-6 work-right work-right2"> 
-					<h4>2013 - 2014 </h4>
+					<h4>2014 - 2016 </h4>
 				</div>
 				<div class="col-md-6 work-left work-left2"> 
-					<h5> Company Name <span class="glyphicon glyphicon-briefcase"> </span></h5>
-					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo </p>
+					<h5> MSKU Android Group <span class="glyphicon glyphicon-briefcase"> </span></h5>
+					<p>I worked in MSKU Android Group during my 3th and 4th year of university education. We contributed to MSKU Android application wrote Academik report About VOIP to Akademik Bilişim 2015 and we wrote a Voip application for Android. You can find it in my projects.</p>
 				</div>
 				<div class="clearfix"> </div>
 			</div>
 			<div class="work-info"> 
 				<div class="col-md-6 work-left"> 
-					<h4>2012 - 2013 </h4>
+					<h4>Summer 2015 </h4>
 				</div>
 				<div class="col-md-6 work-right"> 
-					<h5><span class="glyphicon glyphicon-briefcase"> </span> Company Name</h5>
-					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo </p>
+					<h5><span class="glyphicon glyphicon-briefcase"> </span> Akınsoft Software Engineering LLC.</h5>
+					<p>I worked in AKINSOFT as internship Student for 5 weeks. During my internship I wrote 4 desktop project Functional Calculater, Rock-Paper-Scissors Game, Computer Screen-shot Program and Cinema Otomation Program. I also wrote 14 scrapping Program for Marketting Department of the Company.  </p>
 				</div>
 				<div class="clearfix"> </div>
 			</div>
 			<div class="work-info"> 
 				<div class="col-md-6 work-right work-right2"> 
-					<h4>2010 - 2012 </h4>
+					<h4>Summer 2014 </h4>
 				</div>
 				<div class="col-md-6 work-left work-left2"> 
-					<h5> Company Name <span class="glyphicon glyphicon-briefcase"></span> </h5>
-					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo </p>
+					<h5> MSKU Computer Engineering Department  <span class="glyphicon glyphicon-briefcase"></span> </h5>
+					<p>I worked for Assist. Prof. Dr. Enis KARASLAN as internship Student on Android Development. </p>
 				</div>
 				<div class="clearfix"> </div>
 			</div>
@@ -173,31 +173,32 @@
 			<h3 class="title">Education</h3>
 			<div class="work-info"> 
 				<div class="col-md-6 work-left"> 
-					<h4>Master Degree - 2010</h4>
+					<h4>2012 - 2016</h4>
 				</div>
 				<div class="col-md-6 work-right"> 
-					<h5><span class="glyphicon glyphicon-education"> </span> University Name</h5>
-					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo </p>
+					<h5><span class="glyphicon glyphicon-education"> </span> Computer Engineering </h5>
+					<p>Muğla Sıtkı Koçman University, Computer Engineering Department </p>
 				</div>
 				<div class="clearfix"> </div>
 			</div>
 			<div class="work-info"> 
 				<div class="col-md-6 work-right work-right2"> 
-					<h4>Diploma in Design - 2010</h4>
+					<h4>2011 - 2012</h4>
 				</div>
+
 				<div class="col-md-6 work-left work-left2"> 
-					<h5> University Name <span class="glyphicon glyphicon-education"></span></h5>
-					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo </p>
+					<h5>English Preparatory year  <span class="glyphicon glyphicon-education"></span></h5>
+					<p>Muğla Sıtkı Koçman University, School of Foreign Languages </p>
 				</div>
 				<div class="clearfix"> </div>
 			</div>
 			<div class="work-info"> 
 				<div class="col-md-6 work-left"> 
-					<h4>Web Design - 2008</h4>
+					<h4>2007 - 2011</h4>
 				</div>
 				<div class="col-md-6 work-right"> 
-					<h5><span class="glyphicon glyphicon-education"> </span> University Name</h5>
-					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo </p>
+					<h5><span class="glyphicon glyphicon-education"> </span> İstiklal Makzume Anatolian High School </h5>
+					<p></p>
 				</div>
 				<div class="clearfix"> </div>
 			</div>
@@ -220,9 +221,9 @@
 						<div class="progress-bar progress-bar-striped active" style="width: 80%">
 						</div>
 					</div>
-					<h6>SQL<span>75% </span></h6>
+					<h6>DATABASE MANAGMENT ( MYSQL/MSSQL SERVER )<span>85% </span></h6>
 					<div class="progress">
-						<div class="progress-bar progress-bar-striped active" style="width: 75%">
+						<div class="progress-bar progress-bar-striped active" style="width: 85%">
 						</div>
 					</div>
 					<h6>HTML/CSS <span> 70% </span></h6>
@@ -247,7 +248,7 @@
 						<div class="progress-bar progress-bar-striped active" style="width: 75%">
 						</div>
 					</div>
-					<h6>DATABASE MANAGMENT ( MYSQL/MSSQL SERVER )<span> 85% </span></h6>
+					<h6>DESKTOP UI (JAVAFX/WINDOWBUILDER)<span> 85% </span></h6>
 					<div class="progress">
 						<div class="progress-bar progress-bar-striped active" style="width: 85%">
 						</div>

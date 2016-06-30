@@ -333,7 +333,7 @@ background: #4773ff;
 	position:relative;
 }
 .resp-tab-item:hover{
-    color: #ffffff;
+    color: #1D9898;
 }
 .resp-tab-active,.resp-tab-active:hover{
     text-shadow: none;
